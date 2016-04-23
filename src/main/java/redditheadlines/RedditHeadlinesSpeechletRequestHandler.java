@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class RedditHeadlinesSpeechletRequestHandler extends SpeechletRequestStreamHandler {
 
-    private static final Set<String> supportedApplicationIds = new HashSet<String>();
+    private static final Set<String> supportedApplicationIds = new HashSet<>();
 
     static {
 
