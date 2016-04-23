@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "GetSubRedditIntent",
+      "slots": [
+        {
+          "name": "subreddit",
+          "type": "LIST_OF_ITEMS"
+        }
+      ]
+    },
+    {
+      "intent": "GetNextPostsIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

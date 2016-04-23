@@ -1,0 +1,31 @@
+GetSubRedditIntent {subreddit}
+GetSubRedditIntent get {subreddit}
+GetSubRedditIntent get posts {subreddit}
+GetSubRedditIntent get top {subreddit}
+GetSubRedditIntent get top posts {subreddit}
+GetSubRedditIntent get top posts from {subreddit}
+GetSubRedditIntent get the top posts from {subreddit}
+GetSubRedditIntent get top {subreddit} posts
+GetSubRedditIntent get {subreddit} posts
+GetSubRedditIntent in {subreddit}
+GetSubRedditIntent for {subreddit}
+GetSubRedditIntent for {subreddit} posts
+GetSubRedditIntent get posts in {subreddit}
+GetSubRedditIntent get posts in {subreddit}
+GetSubRedditIntent get posts in {subreddit}
+GetSubRedditIntent to get top posts in {subreddit}
+GetSubRedditIntent for top posts in {subreddit}
+
+GetNextPostsIntent next
+GetNextPostsIntent yup
+GetNextPostsIntent yes
+GetNextPostsIntent please
+GetNextPostsIntent yes please
+GetNextPostsIntent ya
+GetNextPostsIntent sure
+GetNextPostsIntent okay
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
